@@ -1,5 +1,5 @@
 ---
-slug: this
+slug: about-this-cms
 title: About This CMS
 ---
 # Markdown
